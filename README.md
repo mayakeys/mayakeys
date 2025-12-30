@@ -1,8 +1,8 @@
 # Hi, I'm Maya 👋
 
-🎓 CS @ Caltech  
-🤖 Interested in computer vision, robotics, and representation learning  
-🧠 Focused on building systems that perceive, reason, and act in the real world
+🎓 CS and Robotics @ Caltech  
+🤖 Interested in computer vision, robotics, and spatial reasoning
+🧠 Focused on building agents that perceive, reason, and act in the real world
 
 ---
 
