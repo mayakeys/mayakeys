@@ -8,7 +8,6 @@
 - Multimodal representation learning (vision, language, time series)
 - Learning-based robotics & reinforcement learning
 - 3D perception and world modeling for embodied systems
-- Scientific ML & learning from physical sensors
 
 ---
 
@@ -42,6 +41,6 @@
 
 ## 🔍 Currently Working On
 - Reinforcement learning for high-DOF, contact-rich robotic locomotion  
-- Learned spectral representations for scientific instrumentation data  
+
 
 
